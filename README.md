@@ -4,4 +4,10 @@
   </a>
 </p>
 
-![](https://s2.loli.net/2024/03/25/CNxful4aBWHzZ28.png)
+<h1 align="center">Hi, I'm <a href="https://www.433200.xyz">Shawn Tan</a>!</h1>
+
+<p align="center">
+  <a href="https://www.433200.xyz">
+    <img src="tenor.gif" alt="Banner">
+  </a>
+</p>
