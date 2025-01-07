@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center">Hi, I'm <a href="https://www.433200.xyz">Shawn Tan</a>!</h1>
+<h1 align="left">Hi, I'm <a href="https://www.433200.xyz">Shawn Tan</a>!</h1>
 
 <p align="center">
   <a href="https://www.433200.xyz">
@@ -26,6 +26,7 @@
       <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="60" height="60"/>  
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="60" height="60"/> 
       <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="60" height="60"/>
+      <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="60" height="60"/>
       <img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo" width="60" height="60"/>
       <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="60" height="60"/>
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="60" height="60"/>
