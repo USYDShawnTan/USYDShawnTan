@@ -12,7 +12,7 @@
   </a>
 </p>
 
-### <img src="img/2.webp" width="60" /> About Me:
+### About Me: <img src="img/2.webp" width="60" />
 
 - 🎓 I'm a Computer Science student at the University of Sydney.
 - 🌱 I'm currently learning about Cloud Computing and Machine Learning.
