@@ -8,11 +8,11 @@
 
 <p align="center">
   <a href="https://www.433200.xyz">
-    <img src="https://g-dwix6920.coding.net/p/picgo/d/pic/git/raw/main/202501081447087.gif" alt="Banner">
+    <img src="img/1.gif" alt="Banner">
   </a>
 </p>
 
-### About Me: <img src="https://g-dwix6920.coding.net/p/picgo/d/pic/git/raw/main/202501081447639.webp" width="60" />
+### About Me: <img src="img/2.webp" width="60" />
 
 - 🎓 I'm a Computer Science student at the University of Sydney.
 - 🌱 I'm currently learning about Cloud Computing and Machine Learning.
